@@ -1,16 +1,27 @@
-# myapp
+# 🌈 Cor Favorita App
 
-A new Flutter project.
+Bem-vindo ao **Cor Favorita App**, onde você pode descobrir o que sua cor preferida diz sobre você! ✨
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 O que é o Cor Favorita App?
 
-A few resources to get you started if this is your first Flutter project:
+Este é um aplicativo feito com Flutter que apresenta uma paleta de cores para você escolher a sua favorita. Ao clicar em uma cor, você receberá uma mensagem personalizada explicando o que essa cor representa. 💡  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌐 Como acessar?
+
+Basta clicar no link abaixo:  
+👉 [`https://avristihler.github.io/cor-favorita-app/`](https://avrilstihler.github.io/cor-favorita-app/)
+
+---
+
+## 💻 Desenvolvimento  
+
+- O projeto foi criado usando **Flutter**.  
+- Foi exportado para web e hospedado no **GitHub Pages** para acesso fácil e direto no navegador.  
+
+⚠️ **Nota**: Alguns ícones não carregaram corretamente na exportação para web, o que pode alterar o visual final. No entanto, todas as funcionalidades estão funcionando normalmente.  
+
+Descubra o que suas escolhas de cores dizem sobre você e divirta-se explorando!
