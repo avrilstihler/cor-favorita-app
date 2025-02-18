@@ -9,5 +9,5 @@ Clique [`aqui`](https://avrilstihler.github.io/cor-favorita-app/) para acessar a
 - O projeto foi criado usando **Flutter**.  
 - Foi exportado para web e hospedado no **GitHub Pages** para acesso fácil e direto no navegador.  
 
-**Nota**: O ícone do botão `reset` não carregou corretamente durante a exportação para web, o que pode alterar o visual final. No entanto, todas as funcionalidades estão funcionando normalmente.  
+**Nota**: O ícone do botão `reset` não carregou corretamente durante a exportação para web, o que pode alterar o visual final. No entanto, todas as funcionalidades estão operando normalmente.  
 
