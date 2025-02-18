@@ -1,6 +1,6 @@
 # Cor Favorita App 🟥🟧🟨🟩🟦🟪
 Este é um aplicativo desenvolido em Flutter que apresenta uma paleta de cores para você escolher a sua favorita. Ao clicar em uma cor, você receberá uma mensagem personalizada explicando o que essa cor representa.  
-![Cor Favorita](corfavorita.png)
+![Cor Favorita](corfavorita2.png)
 
 
 Clique [`aqui`](https://avrilstihler.github.io/cor-favorita-app/) para acessar a página web do app.
