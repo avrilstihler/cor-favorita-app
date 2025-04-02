@@ -5,7 +5,7 @@ Cor Favorita é um aplicativo Web desenvolvido em **Flutter** (Dart) que permite
 ## 🖼️ Preview do App  
 ![Cor Favorita](imagemcor.png)  
 
-🔗 **Acesse o Cor Favorita**  [Clique aqui para usar o app!](https://avrilstihler.github.io/cor-favorita/)  
+🔗 **Acesse o Cor Favorita**  [Clique aqui para usar o app!](https://avrilstihler.github.io/cor-favorita-app/)  
 
 ## Funcionalidades  
 🔴 **Paleta de cores interativa** para seleção.
